@@ -20,7 +20,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_kpmg6_jmappforje</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description>test</short_description>
         <source>x_kpmg6_jmappforje</source>
         <store_correlation_id>REPOAPP0000900322</store_correlation_id>
         <store_url/>
@@ -29,9 +29,9 @@
         <sys_created_by>jmatriano</sys_created_by>
         <sys_created_on>2023-06-01 06:39:53</sys_created_on>
         <sys_id>44e3f69bdb87a190d1f7ecebd39619f3</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_updated_by>jmatriano</sys_updated_by>
-        <sys_updated_on>2023-06-02 00:23:00</sys_updated_on>
+        <sys_updated_on>2023-06-02 00:29:44</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
